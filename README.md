@@ -15,5 +15,4 @@ ensemble algorithms for model validation.
 	- [] svm
 	- [] gradient_descent
 
-
 ### Marcelo Jantsch Wille
