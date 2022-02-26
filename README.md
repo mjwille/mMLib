@@ -8,7 +8,7 @@ ensemble algorithms for model validation.
 - [ ] data - data engineering folder for use before training 
 - [ ] validation - model validation folder (cross-validation, ensembles, ...)
 - [ ] algorithms folder:
-	- [ ] knn
+	- [x] knn
 	- [x] random_forest 
 	- [x] k_means
 	- [ ] neural_net
